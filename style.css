@@ -1,0 +1,24 @@
+.body_backgorund 
+{
+    background-image:url(Sana.png);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+ border-width:10px;
+ background-color: rgb(255, 255, 255);
+ border-style: ridge;
+ border-color: rgb(124, 32, 124);
+ background-image:url(Birthday_Sana.png);
+text-align:center;
+
+
+
+}
+
+#myfriend{
+background-color: rgb(223, 255, 255);
+border: 2px rgb(250, 230, 253) outset;
+
+}
